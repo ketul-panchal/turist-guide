@@ -1,0 +1,16 @@
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.adminHome.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.feedback.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.Form1.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.Form2.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.Form3.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.Form4.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.UserHome.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.exe
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.pdb
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.ManageUser.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.ViewPlace.resources
+C:\Users\Ketul\OneDrive\Documents\visual studio 2010\Projects\TouristGuide\TouristGuide\obj\x86\Debug\TouristGuide.viewfeedback.resources
